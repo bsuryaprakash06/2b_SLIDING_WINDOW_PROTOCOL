@@ -1,5 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+## AIM:
+To implement the Sliding Window Protocol using socket programming in Python to simulate reliable frame transmission between a client and a server.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
